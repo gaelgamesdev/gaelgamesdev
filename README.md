@@ -2,4 +2,4 @@
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning gameplay programming in Unity/C#
 - 💞️ I’m looking to collaborate on short game projects & Game Jams
-- 📫 You can contact me on gaelgamedev@gmail.com
+- 📫 You can contact me at gaelgamedev@gmail.com | twitter.com/GaelGamesDev
